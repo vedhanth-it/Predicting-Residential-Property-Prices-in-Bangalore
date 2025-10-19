@@ -1,1 +1,0 @@
-# Predicting-Residential-Property-Prices-in-Bangalore
